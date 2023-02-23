@@ -1,0 +1,17 @@
+package bytebank;
+
+public class Conta {
+	double saldo;
+	int agencia;
+	int numero;
+	String titular;
+	
+	@Override
+	public String toString() {
+		this.agencia;
+		this.numero;
+		this.titular;
+		this.saldo;
+		return super.toString();
+	}
+}
